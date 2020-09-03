@@ -1,0 +1,12 @@
+body {
+  margin: 50px;
+}
+#word {
+  display: flex;
+}
+
+.text {
+  min-width: 20px;
+  border-bottom: 2px solid black;
+  margin: 5px;
+}
